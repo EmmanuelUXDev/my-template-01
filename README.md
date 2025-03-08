@@ -1,4 +1,11 @@
 # my-template-01
+Un template Vue.js avec Bootstrap 5
+
+## Technologies utilisées
+- Vue.js 3
+- Bootstrap 5
+- ESLint
+- Vue CLI
 
 ## Project setup
 ```
